@@ -1,1 +1,11 @@
 # BAYMAX-EMR-System
+
+HOME PAGE
+-
+-
+-
+
+REGISTRATION
+-
+-
+-
