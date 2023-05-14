@@ -1,16 +1,19 @@
 # BAYMAX-EMR-System
 
 HOME PAGE
+
 -First screen the user sees when opening the page
 -Provides a welcome quote with breif description about the website
 -User has option to log in with existing account or register as a new user
 
 registration.html
+
 -Accessed when a user wants to create a new account
 -Requires email, username, and password
 -Has an option to take the user to a login page if they ever need to switch
 
 demographics1.html
+
 -After the user enters his information into the registration section, they are prompted to enter some of their personal information 
 -This information gets stored into the database for the user to see later, along with other doctors
 
